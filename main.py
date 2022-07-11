@@ -11,3 +11,4 @@ comp2 = car ("Skoda", "EV")
 
 comp1.info()
 comp2.info()
+#this is a test for git
